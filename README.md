@@ -40,7 +40,7 @@ Welcome to the Blog App, a dynamic platform for seamless content creation and sh
 - Utilize JWT for secure user authentication.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/blog-app.git`
+1. Clone the repository: `git clone https://github.com/Kishor3009/blog-app.git`
 2. Navigate to the project directory: `cd blog-app`
 3. Install dependencies: `npm install`
 4. Run the server: `npm run server`
